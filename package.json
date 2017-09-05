@@ -1,19 +1,19 @@
 {
   "name": "angular2-colcade",
-  "description": "Colcade module for Angular2",
+  "description": "Fork - Colcade module for Angular2",
   "version": "0.1.0",
   "scripts": {},
   "dependencies": {
-    "@angular/core": "2.0.0-rc.6",
+    "@angular/core": "4.x",
     "colcade": "0.2.0"
   },
   "devDependencies": {
-    "typescript": "2.0.0"
+    "typescript": "2.x"
   },
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/leonardobazico/angular2-colcade.git"
+    "url": "git+https://github.com/adewaleandrade/angular2-colcade.git"
   },
   "keywords": [
     "colcade",
