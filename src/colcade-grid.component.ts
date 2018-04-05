@@ -40,8 +40,6 @@ export class ColcadeGridComponent implements OnInit, OnDestroy {
 
     // Initialize Colcade
     this.colcade = new Colcade(this._element.nativeElement, this.options);
-
-    console.log('this.colcade', this.colcade);
   }
 
   ngOnDestroy() {
@@ -51,9 +49,6 @@ export class ColcadeGridComponent implements OnInit, OnDestroy {
   }
 
   append(element: HTMLElement) {
-    console.log('append');
     this.colcade.append(element);
-
-    console.log('this.colcade', this.colcade);
   }
 }
