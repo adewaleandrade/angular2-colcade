@@ -1,10 +1,10 @@
 {
   "name": "angular2-colcade",
-  "description": "Fork - Colcade module for Angular2",
+  "description": "Fork - Colcade module for Angular 5",
   "version": "0.1.0",
   "scripts": {},
   "dependencies": {
-    "@angular/core": "4.x",
+    "@angular/core": "5.x",
     "colcade": "0.2.0"
   },
   "devDependencies": {
